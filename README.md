@@ -57,7 +57,7 @@ interface que a equipe usa todo dia, o deploy e a sustentação em produção.
 
 **Infraestrutura**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&labelColor=232F3E&color=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -65,7 +65,7 @@ interface que a equipe usa todo dia, o deploy e a sustentação em produção.
 **IA**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Qualidade**
@@ -77,20 +77,20 @@ interface que a equipe usa todo dia, o deploy e a sustentação em produção.
 
 > Os projetos abaixo são privados ou de clientes, por isso estão descritos sem identificação.
 
-**Plataforma de Saúde e Segurança do Trabalho** · SaaS multi-tenant
+**Plataforma de Saúde e Segurança do Trabalho** · SaaS multi-tenant<br>
 Gestão de exames ocupacionais, entrega de EPIs, treinamentos, laudos e documentos
 legais. Isolamento de dados por empresa aplicado no próprio banco, emissão fiscal
 integrada à prefeitura e geração automática de certificados e relatórios.
 
-**Assistente conversacional corporativo** · IA + RAG
+**Assistente conversacional corporativo** · IA + RAG<br>
 Atendimento por WhatsApp e Telegram com busca semântica sobre a documentação
 interna da empresa, respondendo com base no conteúdo real dos documentos.
 
-**Portal de conteúdo automatizado** · IA editorial
+**Portal de conteúdo automatizado** · IA editorial<br>
 Pipeline que monitora fontes, redige e publica matérias sem intervenção manual,
 com controle de qualidade e alertas quando a publicação trava.
 
-**Automação fiscal municipal** · Integração
+**Automação fiscal municipal** · Integração<br>
 Emissão, consulta e cancelamento de notas fiscais de serviço direto no portal da
 prefeitura, com assinatura digital de XML e conciliação das guias.
 
