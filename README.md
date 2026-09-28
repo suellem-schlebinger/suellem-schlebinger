@@ -1,4 +1,4 @@
-<h1 align="center">Suellem Schlebinger</h1>
+<h1 align="center">Suellem Medeiros Schlebinger Bierhals</h1>
 
 <p align="center">
   <strong>Consultora de Tecnologia e Automação</strong><br>
