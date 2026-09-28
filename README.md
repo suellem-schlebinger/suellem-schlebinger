@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/suellemschlebinger/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:suellem@sstflix.com">
     <img src="https://img.shields.io/badge/E--mail-24292F?style=flat-square&logo=maildotru&logoColor=white" alt="E-mail">
   </a>
